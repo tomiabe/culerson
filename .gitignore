@@ -1,0 +1,30 @@
+
+# Local settings and generated dependencies
+node_modules/
+.venv/
+__pycache__/
+.next/
+.open-next/
+.wrangler/
+.vercel/
+.env
+.env.local
+.env.*.local
+.dev.vars
+*.pem
+*.key
+.DS_Store
+.freebuff/
+.openai/
+.polish-temp/
+
+# Original WordPress backups and settings are preserved privately in Google Drive
+*.wpress
+*.sql
+*.tar.gz
+*.tar.gz.part*
+wp-config.php
+*.crt
+*.p12
+*.pfx
+website-preview-*.png
