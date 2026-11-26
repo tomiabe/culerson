@@ -1,0 +1,5 @@
+Icons from Font Awesome Free, by Fonticons, Inc.
+https://fontawesome.com/
+SVG icons are licensed under Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/
+The original icon paths are embedded in HTML with decorative accessibility attributes.
